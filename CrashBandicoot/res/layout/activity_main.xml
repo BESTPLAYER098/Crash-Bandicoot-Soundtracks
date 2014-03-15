@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageButton
+        android:id="@+id/playImageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:src="@android:drawable/btn_star"
+        android:contentDescription="@id/playImageButton" />
+
+    <ImageButton
+        android:id="@+id/beforeImageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/playImageButton"
+        android:layout_toLeftOf="@+id/playImageButton"
+        android:src="@android:drawable/btn_star"
+        android:contentDescription="@id/beforeImageButton" />
+
+    <ImageButton
+        android:id="@+id/nextImageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/playImageButton"
+        android:layout_toRightOf="@+id/playImageButton"
+        android:src="@android:drawable/btn_star"
+        android:contentDescription="@id/nextImageButton" />
+
+    <ImageButton
+        android:id="@+id/loopImageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/nextImageButton"
+        android:layout_toRightOf="@+id/nextImageButton"
+        android:contentDescription="@id/loopImageButton"
+        android:src="@android:drawable/btn_star" />
+
+    <SeekBar
+        android:id="@+id/progressSeekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/playImageButton"
+        android:layout_alignParentLeft="true" />
+
+    <ImageButton
+        android:id="@+id/stopImageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/progressSeekBar"
+        android:layout_toLeftOf="@+id/beforeImageButton"
+        android:contentDescription="@id/stopImageButton"
+        android:src="@android:drawable/btn_star" />
+
+    
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    </RelativeLayout>
