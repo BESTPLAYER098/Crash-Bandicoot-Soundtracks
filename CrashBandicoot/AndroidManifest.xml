@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bestplayer098.crashbandicootfanapp"
+    android:installLocation="auto"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.bestplayer098.crashbandicootfanapp.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop" >
+        </activity>
+        <activity
+            android:name="com.bestplayer098.crashbandicootfanapp.Select2Activity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.bestplayer098.crashbandicootfanapp.NotificationAction1"
+            android:label="@string/title_activity_notification_action1" >
+        </activity>
+        <activity
+            android:name="com.bestplayer098.crashbandicootfanapp.NotificationAction2"
+            android:label="@string/title_activity_notification_action2" >
+        </activity>
+        <activity
+            android:name="com.bestplayer098.crashbandicootfanapp.NotificationAction3"
+            android:label="@string/title_activity_notification_action3" >
+        </activity>
+    </application>
+</manifest>
