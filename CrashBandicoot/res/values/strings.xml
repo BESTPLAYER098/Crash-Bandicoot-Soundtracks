@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Crash Bandicoot</string>
+    <string name="action_settings">Settings</string>
+    <string name="playImageButton">PlayButton</string>
+    <string name="nextImageButton">NextButton</string>
+    <string name="beforeImageButton">BeforeButton</string>
+    <string name="stopImageButton">StopButton</string>
+    <string name="loopImagebutton">LoopButton</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_select2">SelectActivity2</string>
+
+    <string-array name="Crash_Bandicoot_1">
+        <item>Map &amp; N. Sanity Beach</item>
+        <item>N. Sanity Beach (Interior)</item>
+        <item>Jungle Rollers &amp; Rolling Stones</item>
+        <item>The Great Gate &amp; Native Fortress</item>
+        <item>Boulders &amp; Boulder Dash</item>
+        <item>Upstream &amp; Up the Creek</item>
+        <item>Papu Papu</item>
+        <item>Hog Wild &amp; Whole Hog</item>
+        <item>Ripper Roo</item>
+        <item>The Lost City &amp; Sunset Vista</item>
+        <item>Temple Ruins &amp; Jaws of Darkness</item>
+        <item>Road to Nowhere &amp; The High Road</item>
+        <item>Koala Kong</item>
+        <item>Heavy Machinery &amp; Castle Machinery</item>
+        <item>Cortex Power</item>
+        <item>Generator Room</item>
+        <item>Toxic Waste</item>
+        <item>Pinstripe Potoroo</item>
+        <item>Slippery Climb &amp; Stormy Ascent</item>
+        <item>Lights Out &amp; Fumbling in the Dark</item>
+        <item>Dr. Nitrus Brio</item>
+        <item>The Lab</item>
+        <item>The Great Hall</item>
+        <item>Dr. Neo Cortex</item>
+        <item>Tawna Bonus</item>
+        <item>Dr. Nitrus Brio Bonus</item>
+        <item>Dr. Neo Cortex Bonus</item>
+    </string-array>
+    <string-array name="Crash_Bandicoot_2">
+        <item>Warp Room</item>
+        <item>Turtle Woods, The Pits &amp; Night Fight</item>
+        <item>Snow Go, Snow Biz &amp; Cold Hard Crash</item>
+        <item>Hang Eight, Air Crash &amp; Plant Food</item>
+        <item>Crash Dash, Crash Crush &amp; Un-Bearable</item>
+        <item>Ripper Roo</item>
+        <item>Bear It, Bear Down &amp; Totally Bear</item>
+        <item>The Eel Deal, Sewer Or Later &amp; Hangin\' Out</item>
+        <item>Komodo Bros. (Joe &amp; Moe)</item>
+        <item>Road To Ruin &amp; Ruination</item>
+        <item>Tiny The Tiger</item>
+        <item>Diggin\' It &amp; Bee-Having</item>
+        <item>Dr. N. Gin</item>
+        <item>Piston It Away &amp; Spaced Out</item>
+        <item>Rock It &amp; Pack Attack</item>
+        <item>Dr. Neo Cortex</item>
+        <item>Totally Fly</item>
+        <item>Credits</item>
+        <item>Skull Route Air Crash</item>
+        <item>Skull Route Road To Ruin</item>
+        <item>Skull Route Un-Bearable</item>
+        <item>Skull Route Diggin\' It</item>
+        <item>Skull Route Cold Hard Crash</item>
+        <item>Skull Route Piston It Away</item>
+        <item>Piston It Away &amp; Spaced Out Bonus</item>
+        <item>Gem Path Green The Eel Deal</item>
+    </string-array>
+    <string-array name="Crash_Bandicoot_3">
+        <item >Warp Room</item>
+        <item >Toad Village, Gee Wiz &amp; Double Header</item>
+        <item >Under Pressure &amp; Deep Trouble</item>
+        <item >Orient Express &amp; Dino Might</item>
+        <item >Makin\' Waves &amp; Tell No Tales</item>
+        <item >Tiny Tiger</item>
+        <item >Hang\'em High, High Time &amp; Flaming Passion</item>
+        <item >Hog Ride &amp; Road Crash</item>
+        <item >Tomb Time, Sphynxinator &amp; Bug Lite</item>
+        <item >Dingodile</item>
+        <item >Dr. Nefarious Tropy</item>
+        <item >Bye Bye Blimps</item>
+        <item >Future Frenzy &amp; Gone Tomorrow</item>
+        <item >Dr. N. Gin</item>
+        <item >Mad Bombers</item>
+        <item >Dr. Neo Cortex</item>
+        <item >Rings of Power</item>
+        <item >Toad Village, Gee Wiz &amp; Double Header Bonus</item>
+        <item >Bone Yard &amp; Dino Might Bonus</item>
+        <item >Desert Town Bonus</item>
+        <item >Tomb Time, Sphynxinator, Tomb Wader &amp; Bug Lite Bonus</item>
+        <item >Future Frenzy &amp; Gone Tomorrow Bonus</item>
+        <item >Prehistoric Skull Route / Gem Path</item>
+        <item >Arabian Skull Route / Gem Path</item>
+        <item >Egypt Skull Route / Gem Path</item>
+        <item >Future Skull Route / Gem Path</item>
+        <item >Medieval Skull Route / Gem Path (Unused)</item>
+        <item >Underwater Skull Route / Gem Path (Unused)</item>
+        <item >China Skull Route / Gem Path (Unused)</item>
+        <item >Motorcycle Skull Route / Gem Path (Unused)</item>
+        <item >Airplane Skull Route / Gem Path (Unused)</item>
+    </string-array>
+    <string-array name="Crash_Team_Racing"></string-array>
+
+    <string name="cb1">Crash Bandicoot 1</string>
+    <string name="cb2">Crash Bandicoot 2</string>
+    <string name="cb3">Crash Bandicoot 3</string>
+    <string name="ctr">Crash Team Racing</string>
+    <string name="title_activity_notification_action1">NotificationAction1</string>
+    
+    <string name="title_activity_notification_action2">NotificationAction2</string>
+    <string name="title_activity_notification_action3">NotificationAction3</string><string name="hello_world">Hello world!</string>
+
+</resources>
